@@ -34,7 +34,7 @@ graph LR
 ```
 
 ## Media
-![photo_5780647426753498296_w](https://github.com/user-attachments/assets/816d605a-2332-457d-9ded-953f7cdcc3ff)
+![EMG Circuit Setup](https://github.com/user-attachments/assets/816d605a-2332-457d-9ded-953f7cdcc3ff)
 
 
 ## About Me
